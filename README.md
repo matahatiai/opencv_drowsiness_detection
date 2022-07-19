@@ -64,8 +64,6 @@ so that our main thread doesn't block and our script keeps on working and the so
 The results are pretty accurate. We can see that it accurately and reliably detects if the driver
 starts to fall asleep. It works pretty well in real time and doesn't need very superior hardware.
 
-![Example output](assets/output.gif)
-
 
 
 ## **Limitations**
