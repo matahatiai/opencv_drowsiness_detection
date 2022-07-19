@@ -15,6 +15,13 @@ Visual Studio
 
 Use Microsoft Visual Studio for compiling. Download at https://visualstudio.microsoft.com/visual-cpp-build-tools/ Make sure the Cmake option is selected, the default option is not changed, in our case, the required options are MSVC Vxxx, Windows 10 SDK xxxx, C++ CMake for Windows .
 
+### Install GIT & Compile OPENCV
+
+git clone https://github.com/opencv/opencv.git
+
+run & install : python setup.py install
+
+
 ## **Key Points**
 1. Steps involved:
     1. Localize the face in the video frame
