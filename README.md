@@ -1,6 +1,8 @@
 # OPENCV DROWSINESS DETECTION
 ### Detects and Alerts if the driver is starting to doze off.
 
+<img src="https://raw.githubusercontent.com/matahatiai/opencv_drowsiness_detection/master/example.png" /><br />
+
 Very simple and effective blink detector using just Python, OpenCV and dlib.
 
 All thanks to Adrian Rosebrock (from [pyimagesearch](https://www.pyimagesearch.com/)) for making
